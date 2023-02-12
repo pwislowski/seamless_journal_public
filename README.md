@@ -14,15 +14,6 @@ The Seamless Journal provides near-real-time tracking of positions entered and e
 
 ---
 
-**TODO**:
-- Integration
-   1. ~~Bybit~~
-   2. Coinbase
-   3. Oanda
-   4. Binance
-- Combine `websockets` and deploy on a server
-
-
 # 2. Documentation
 TODO:
 - add requirements
